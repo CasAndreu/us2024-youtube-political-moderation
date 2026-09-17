@@ -2,8 +2,9 @@
 # fig02-A-B-C.R
 # Title:    Little evidence of ideological bias in YouTube suspensions of 
 #             political content during the 2024 US Election
-# Purpose:  Code to replicate Figure 2.A in the paper, showing 
-#             proportion of suspended videos by ideology of the channel.
+# Purpose:  Code to replicate Figure 2.A, 2.B, and 2.C in the paper, showing 
+#             proportion of suspended (political) videos by ideology of the 
+#             channel (A-B) and video (C).
 # Author:   Andreu Casas
 #===============================================================================
 
