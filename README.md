@@ -53,12 +53,12 @@ A few files are too large to be stored in this repository. You can find them in 
   />
 </p>
 
-- [fig02-C.R](https://github.com/CasAndreu/us2024-youtube-political-moderation/blob/main/R/fig02-C.R): code to generate Figure 2.C of the paper, showing proportion of suspended videos by ideology of the channel.
+- [fig02-A-B-C.R](https://github.com/CasAndreu/us2024-youtube-political-moderation/blob/main/R/fig02-A-B-C.R): code to generate Figure 2.A, 2.B, and 2.C in the paper, showing proportion of suspended (political) videos by ideology of the channel (A-B) and video (C).
 
 <p align="center">
   <img
-    src="https://github.com/CasAndreu/us2024-youtube-political-moderation/blob/main/plots_png/fig02-C.png"
+    src="https://github.com/CasAndreu/us2024-youtube-political-moderation/blob/main/plots_png/figu02-A-B-C.png"
     width="650"
-    alt="Figure 2.C: Proportion of suspended videos by ideology"
+    alt="Figure 2.C: Proportion of suspended (political) videos by ideology of the channel/video"
   />
 </p>
