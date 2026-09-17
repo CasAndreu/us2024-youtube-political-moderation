@@ -62,8 +62,7 @@ ggplot(hate_misinfo_susp,
        aes(x = target, y = perc)) +
   geom_bar(stat = "identity", aes(fill = target), alpha = 0.6) +
   geom_text(aes(x = target, y = perc + 0.3, label = paste0(perc, "%")), 
-            size = 5,
-            family = "Roboto Condensed") +
+            size = 5) +
   scale_y_continuous("% removed",
                      expand = c(0,0), limits = c(0, 9)) +
   scale_x_discrete("") +
