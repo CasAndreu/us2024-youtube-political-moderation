@@ -62,3 +62,13 @@ A few files are too large to be stored in this repository. You can find them in 
     alt="Figure 2.C: Proportion of suspended (political) videos by ideology of the channel/video"
   />
 </p>
+
+- [fig02-D.R](https://github.com/CasAndreu/us2024-youtube-political-moderation/blob/main/R/fig02-D.R): code to generate Figure 2.D in the paper, showing proportion of (non) suspended hateful and misinformation videos.
+
+<p align="center">
+  <img
+    src="https://github.com/CasAndreu/us2024-youtube-political-moderation/blob/main/plots_png/fig02-D.png"
+    width="650"
+    alt="Figure 2.C: Proportion of (non) suspended hateful and misinformation videos"
+  />
+</p>
