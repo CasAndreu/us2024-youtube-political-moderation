@@ -69,6 +69,16 @@ A few files are too large to be stored in this repository. You can find them in 
   <img
     src="https://github.com/CasAndreu/us2024-youtube-political-moderation/blob/main/plots_png/fig02-D.png"
     width="650"
-    alt="Figure 2.C: Proportion of (non) suspended hateful and misinformation videos"
+    alt="Figure 2.D: Proportion of (non) suspended hateful and misinformation videos"
+  />
+</p>
+
+- [fig02-E.R](https://github.com/CasAndreu/us2024-youtube-political-moderation/blob/main/R/fig02-E.R): code to generate Figure 2.E in the paper, showing proportion of (non) hateful and misinformation videos, by ideological leaning of the video.
+
+<p align="center">
+  <img
+    src="https://github.com/CasAndreu/us2024-youtube-political-moderation/blob/main/plots_png/fig02-E.png"
+    width="650"
+    alt="Figure 2.E: Proportion of (non) hateful/misinformation videos, by ideological leaning of the video"
   />
 </p>
